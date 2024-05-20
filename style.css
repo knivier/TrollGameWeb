@@ -17,13 +17,13 @@ html {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: purple;
+  background: slategrey;
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: red;
+  background: slateblue;
 }
 
 .button {
