@@ -1,5 +1,5 @@
-# Troll Game Website
+# Troll Game Official Website
 
-An incredibly simple site that is updated on a non scheduled basis.
+The website made for Troll Game, a simple text-based Java game I (Knivier) made.
 
-This website isn't meant to be modified by others. It's just here for versioning control :D
+Incredibly simple, forked from an existing project with content modifications and cosmetic overhauls.
