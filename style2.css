@@ -19,7 +19,7 @@
 
     /* Handle on hover */
     ::-webkit-scrollbar-thumb:hover {
-      background: green;
+      background: salmon;
       border-radius: 12px;
     }
 
